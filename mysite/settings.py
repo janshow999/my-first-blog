@@ -25,7 +25,7 @@ SECRET_KEY = '((1p_#2fe5h2tcm0qk#-6yzb_o*2qa06*!@onc!$@j$kp=e=9i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['steamjanshow999.pythonanywhere.com']
 
 
 # Application definition
